@@ -1,7 +1,8 @@
 
 ---
 
-# **Business Insights 360**: Transforming Data into Decisions  
+# **Business Insights 360**: Transforming Data into Decisions.  
+![header picture](Assets/pic1.jpg)
 
 Welcome to the **Business Insights 360** Power BI project repository! This dynamic dashboard empowers AtliQ Hardware with actionable insights spanning Finance, Sales, Marketing, Supply Chain, and Executive Decision-Making.  
 
@@ -14,9 +15,10 @@ Welcome to the **Business Insights 360** Power BI project repository! This dynam
 - **Marketing View**: Enhance marketing strategies with data-driven analytics.  
 - **Supply Chain View**: Optimize supply chain efficiency with actionable metrics.  
 - **Executive View**: Provide top-level executives with critical business KPIs.  
-
+> ### **Executive View >>>**
+![header picture](Assets/image2.png)
 ## Live Dashboard
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzJkODEzZjUtMWJmZC00YjMyLWJlYzYtZjJmZTJjMGE0OWU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Explore the live dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiMzJkODEzZjUtMWJmZC00YjMyLWJlYzYtZjJmZTJjMGE0OWU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ##  **Key Achievements**  
 - **Customization**: Tailored to meet AtliQ Hardware's unique needs.  
